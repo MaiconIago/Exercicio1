@@ -1,0 +1,3 @@
+interface Raios {
+    void usarRaio();
+}
